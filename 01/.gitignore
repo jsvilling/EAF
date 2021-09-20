@@ -1,0 +1,29 @@
+.gradle
+/build/
+/generated/
+gradlew
+gradlew.bat
+/gradle/
+
+### Eclipse & VSCode ###
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+bin/
+.vscode/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
